@@ -1,0 +1,13 @@
+Mon, 30 Nov 2020 15:51:39 +0530
+./incoming.rb	Mon, 30 Nov 2020 15:39:33 +0530
+./spec/trip_spec.rb	Mon, 30 Nov 2020 15:51:22 +0530
+./spec/report_spec.rb	Mon, 30 Nov 2020 15:51:20 +0530
+./spec/driver_spec.rb	Mon, 30 Nov 2020 15:51:25 +0530
+./README.md	Mon, 30 Nov 2020 03:10:38 +0530
+./input.txt	Mon, 30 Nov 2020 05:19:31 +0530
+./lib/report.rb	Mon, 30 Nov 2020 15:39:37 +0530
+./lib/driver.rb	Mon, 30 Nov 2020 15:31:43 +0530
+./lib/trip.rb	Mon, 30 Nov 2020 15:51:32 +0530
+./Gemfile	Mon, 30 Nov 2020 15:42:27 +0530
+./Gemfile.lock	Mon, 30 Nov 2020 15:42:44 +0530
+./output.txt	Mon, 30 Nov 2020 15:51:17 +0530
