@@ -1,4 +1,4 @@
-Highway Trcaker - CLI Application
+Highway Tracker - CLI Application
 =====================================
 
 Track the driver's trip details and find out the averge speed, distance and time.
